@@ -1,0 +1,25 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "dengue.test" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'dengue.test: My Reproducible Proyect'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Pena-Frias
+  given-names: Sebastian
+  email: sebastianpena@uchile.cl
+  orcid: https://orcid.org/0000-0001-5412-2896
+repository-code: https://github.com/sebastianpena-uchile/dengue.test
+url: https://github.com/sebastianpena-uchile/dengue.test
+contact:
+- family-names: Pena-Frias
+  given-names: Sebastian
+  email: sebastianpena@uchile.cl
+  orcid: https://orcid.org/0000-0001-5412-2896
+
